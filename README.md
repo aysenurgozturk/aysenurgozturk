@@ -4,7 +4,6 @@
 
 📫 How to reach me: aysenurgozturkk@gmail.com <br /><br />
 [![linkedin](https://img.shields.io/badge/Linkedin-1E90FF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aysenurgozturk/)
-[![gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=Gmail&logoColor=red)](aysenurgozturkk@gmail.com)
 
 <!--
 **aysenurgozturk/aysenurgozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
