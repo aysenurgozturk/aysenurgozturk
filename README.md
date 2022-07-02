@@ -1,7 +1,6 @@
-👋 Merhaba ben Ayşenur Göztürk. İstanbul Aydın Üniversitesi Bilgisayar Mühendisliği mezunuyum. <br />
-⚡ React Native, Node.js, Java, HTML, CSS ile geliştirdiğim projelerim bulunmakta.<br />
-🌱 Şu an aktif olarak Python Veri Bilimi üzerinde çalışıyorum. <br />
-
+👋 Hi everyone <br />
+🌱 I’m currently working on Python-Data Science <br />
+👯 I’m looking to collaborate with anyone who can contribute something to me  <br />
 📫 How to reach me: aysenurgozturkk@gmail.com <br /><br />
 [![linkedin](https://img.shields.io/badge/Linkedin-1E90FF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aysenurgozturk/)
 
